@@ -24,7 +24,14 @@ The application includes both a **Java Swing GUI** and a **math logic class** fo
 - VS Code (with Java extensions)
 
 ---
+## Installation & Setup
 
+### 1. Clone the Repository
+
+Git clone https://github.com/BrianZhangIZ/SOEN6011Calculator
+Run compile all the files and run StandardDeviationCalculator.java
+
+---
 
 Versioning
 Follows Semantic Versioning:
